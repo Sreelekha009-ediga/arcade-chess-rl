@@ -1,0 +1,6 @@
+python-chess==0.31.4
+pygame==2.5.2
+numpy==1.26.4
+tensorflow==2.15.0   # or torch if you prefer PyTorch DQN
+opencv-python==4.9.0.80  # optional for board screenshots later
+pillow==10.2.0
