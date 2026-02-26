@@ -2,8 +2,6 @@
 
 **Self-learning chess agent using Deep Q-Learning (DQN) + Pygame visualization**
 
-GitHub: https://github.com/YOUR-USERNAME/arcade-chess-rl  
-Live Demo Video/GIF: (add later if you record one)
 
 ### Key Highlights 
 - Designed a self-learning chess agent using Deep Q-Learning (DQN).
